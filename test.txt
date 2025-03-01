@@ -2,3 +2,4 @@
 Adding 2nd commit git sttaus
 Echo "Testing git repository setting"
 "Created feature 2 new branch and commiting code"
+This is my 3rd branch created for testing an fast forward merge
