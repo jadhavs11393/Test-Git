@@ -1,1 +1,3 @@
 "This is my 1st repo for testing" 
+Adding 2nd commit git sttaus
+Echo "Testing git repository setting"
